@@ -1,0 +1,9 @@
+title: Goblinoid
+description: Creative worlds, music, and games
+# Use GitHub Pages–built-in Jekyll; no plugins required
+theme: minima  # gives you sane defaults; we’ll still use our own layout/css
+# Nice URLs (no .html)
+permalink: /:categories/:title/
+# Make sure assets paths resolve
+baseurl: ""    # leave empty for user site; set to "/repo-name" for project sites
+url: "https://YOURUSERNAME.github.io"  # replace with your username (or custom domain later)
