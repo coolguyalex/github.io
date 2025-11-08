@@ -9,7 +9,7 @@
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | strip_newlines }}">
 </head>
-<body>
+<body class="{{ page.body_class }}">
   {% include nav.html %}
 
   <main class="container">
