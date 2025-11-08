@@ -1,36 +1,56 @@
 ---
-# Jekyll front matter so SCSS compiles to CSS
 ---
-
 /* Base variables (light) */
 :root {
-  --bg: #ffffff; --text:#111; --muted:#555;
-  --link:#0b57d0; --link-hover:#174ea6;
-  --card:#f7f7f9; --border:#e5e7eb;
+  --bg: #ffffff;
+  --text: #111111;
+  --muted: #555555;
+  --link: #0b57d0;
+  --link-hover: #174ea6;
+  --card: #f7f7f9;
+  --border: #e5e7eb;
+  --nav-bg: #f2f2f5; /* safe fallback for light nav */
 }
 
-/* Dark uses system setting unless user overrides via data-theme */
+/* Dark by system preference */
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg:#0b0b0e; --text:#e6e6ea; --muted:#a0a0ad;
-    --link:#7dbbff; --link-hover:#a8d1ff;
-    --card:#141418; --border:#23232b;
+    --bg: #0b0b0e;
+    --text: #e6e6ea;
+    --muted: #a0a0ad;
+    --link: #7dbbff;
+    --link-hover: #a8d1ff;
+    --card: #141418;
+    --border: #23232b;
+    --nav-bg: #0f0f14; /* safe fallback for dark nav */
   }
 }
 
-/* Manual overrides win over media query */
+/* Manual overrides (light/dark toggle) */
 :root[data-theme="light"] {
   color-scheme: light;
-  --bg:#ffffff; --text:#111; --muted:#555;
-  --link:#0b57d0; --link-hover:#174ea6; --card:#f7f7f9; --border:#e5e7eb;
+  --bg: #ffffff;
+  --text: #111111;
+  --muted: #555555;
+  --link: #0b57d0;
+  --link-hover: #174ea6;
+  --card: #f7f7f9;
+  --border: #e5e7eb;
+  --nav-bg: #f2f2f5;
 }
 :root[data-theme="dark"] {
   color-scheme: dark;
-  --bg:#0b0b0e; --text:#e6e6ea; --muted:#a0a0ad;
-  --link:#7dbbff; --link-hover:#a8d1ff; --card:#141418; --border:#23232b;
+  --bg: #0b0b0e;
+  --text: #e6e6ea;
+  --muted: #a0a0ad;
+  --link: #7dbbff;
+  --link-hover: #a8d1ff;
+  --card: #141418;
+  --border: #23232b;
+  --nav-bg: #0f0f14;
 }
 
-/* Global styles */
+/* Global */
 html, body {
   margin: 0;
   background: var(--bg);
@@ -46,16 +66,20 @@ a:hover { color: var(--link-hover); text-decoration: underline; }
 .rule { border: 0; border-top: 1px solid var(--border); }
 
 /* Nav */
-.site-nav { background: color-mix(in oklab, var(--bg) 85%, black 15%); }
+.site-nav { background: var(--nav-bg); }
 .nav-inner {
   max-width: 900px; margin: 0 auto; padding: 12px 24px;
   display: flex; align-items: center; gap: 16px;
 }
 .nav-inner .brand { font-weight: 700; margin-right: auto; }
 .nav-inner .links a { margin-right: 12px; }
-#theme-toggle { margin-left: 8px; border: 1px solid var(--border); background: var(--card); color: var(--text); border-radius: 8px; padding: 6px 10px; cursor: pointer; }
+#theme-toggle {
+  margin-left: 8px; border: 1px solid var(--border);
+  background: var(--card); color: var(--text);
+  border-radius: 8px; padding: 6px 10px; cursor: pointer;
+}
 
 /* Cards / code */
 .card { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 16px; }
 pre, code { background: #1c1c24; color:#eaeaff; border:1px solid var(--border); border-radius:6px; padding:0.2em 0.4em; }
-:root[data-theme="light"] pre, :root[data-theme="light"] code { background:#f3f4f6; color:#111; }
+:root[data-theme="light"] pre, :root[data-theme="light"] code { background:#f3f4f6; color:#111111; }
