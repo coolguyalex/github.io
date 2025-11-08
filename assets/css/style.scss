@@ -107,3 +107,25 @@ pre, code {
   border-radius: 6px;
   padding: 0.2em 0.4em;
 }
+
+/* Center all content on homepage only */
+body.home .container {
+  text-align: center;
+}
+
+body.home h1,
+body.home h2,
+body.home h3,
+body.home h4,
+body.home h5,
+body.home h6,
+body.home p,
+body.home a {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Keep nav still aligned normally */
+body.home .nav-inner {
+  text-align: left;
+}
