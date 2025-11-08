@@ -1,45 +1,7 @@
 ---
 ---
-/* Base variables (light) */
+/* Permanent dark theme (no toggles, no light mode) */
 :root {
-  --bg: #ffffff;
-  --text: #111111;
-  --muted: #555555;
-  --link: #0b57d0;
-  --link-hover: #174ea6;
-  --card: #f7f7f9;
-  --border: #e5e7eb;
-  --nav-bg: #f2f2f5; /* safe fallback for light nav */
-}
-
-/* Dark by system preference */
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg: #0b0b0e;
-    --text: #FAFAFA;
-    --muted: #a0a0ad;
-    --link: #7dbbff;
-    --link-hover: #a8d1ff;
-    --card: #141418;
-    --border: #23232b;
-    --nav-bg: #0f0f14; /* safe fallback for dark nav */
-  }
-}
-
-/* Manual overrides (light/dark toggle) */
-:root[data-theme="light"] {
-  color-scheme: light;
-  --bg: #ffffff;
-  --text: #111111;
-  --muted: #555555;
-  --link: #0b57d0;
-  --link-hover: #174ea6;
-  --card: #f7f7f9;
-  --border: #e5e7eb;
-  --nav-bg: #f2f2f5;
-}
-:root[data-theme="dark"] {
-  color-scheme: dark;
   --bg: #0b0b0e;
   --text: #e6e6ea;
   --muted: #a0a0ad;
@@ -48,6 +10,7 @@
   --card: #141418;
   --border: #23232b;
   --nav-bg: #0f0f14;
+  --accent: #6bbf00; /* Goblin green for headings */
 }
 
 /* Global */
@@ -62,8 +25,14 @@ a { color: var(--link); text-decoration: none; }
 a:hover { color: var(--link-hover); text-decoration: underline; }
 
 .container { max-width: 900px; margin: 0 auto; padding: 24px; }
-
 .rule { border: 0; border-top: 1px solid var(--border); }
+
+/* Headings → goblin green */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--accent);
+  line-height: 1.2;
+  margin: 0.6em 0 0.3em;
+}
 
 /* Nav */
 .site-nav { background: var(--nav-bg); }
@@ -73,13 +42,10 @@ a:hover { color: var(--link-hover); text-decoration: underline; }
 }
 .nav-inner .brand { font-weight: 700; margin-right: auto; }
 .nav-inner .links a { margin-right: 12px; }
-#theme-toggle {
-  margin-left: 8px; border: 1px solid var(--border);
-  background: var(--card); color: var(--text);
-  border-radius: 8px; padding: 6px 10px; cursor: pointer;
-}
+
+/* Hide any leftover theme toggle button if still present */
+#theme-toggle { display: none !important; }
 
 /* Cards / code */
 .card { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 16px; }
 pre, code { background: #1c1c24; color:#eaeaff; border:1px solid var(--border); border-radius:6px; padding:0.2em 0.4em; }
-:root[data-theme="light"] pre, :root[data-theme="light"] code { background:#f3f4f6; color:#111111; }
