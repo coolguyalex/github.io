@@ -6,8 +6,7 @@ permalink: /rpg/
 
 # RPG Worlds
 
-Welcome to the **RPG hub**, where imagination and exploration collide.  
-Here you can explore each of my ongoing worlds and campaigns.
+RPG information and records for active and archived games.
 
 ---
 
