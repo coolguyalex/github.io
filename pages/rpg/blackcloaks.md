@@ -11,23 +11,15 @@ Kept by Darj Farrier, Director III, Ventures Division
   -Lair of an evil alchemist filled with traps 
     Several Black Cloaks disappeared within and have never been seen again
 
-Tomb of Hishep Ratep: 90% - School Crew
-
-    Flooded tomb on the edge of a lake. Guardians endure.
-
-
-The Aquifer of Crystalline Memory: 75% - Home Crew
-
-    Children enslaved to pick mushrooms within
-
-Vacuous Pit of Slithering Deceit: 70% - School Crew
-
-    Caverns filled with valuable gems and nasty beasties
-    A massive slithering worm prowls the darkest depths.
-
-Crumbling Belfry of Shadowy Portents 20% - School Crew
-
-    Haunted by a decaying corvid geist all black feathers and whispers
+- Tomb of Hishep Ratep: 90% - School Crew
+  - Flooded tomb on the edge of a lake. Guardians endure.
+- The Aquifer of Crystalline Memory: 75% - Home Crew
+  - Children enslaved to pick mushrooms within
+- Vacuous Pit of Slithering Deceit: 70% - School Crew
+  - Caverns filled with valuable gems and nasty beasties
+  - A massive slithering worm prowls the darkest depths.
+- Crumbling Belfry of Shadowy Portents 20% - School Crew
+  - Haunted by a decaying corvid geist all black feathers and whispers
 
 Skyblind Spire: 15% - School Crew
 
