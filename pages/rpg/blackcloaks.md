@@ -11,11 +11,13 @@ permalink: /blackcloaks/
 ---
 
 ### Active Contracts 
-- Impressing locals - 1-6 XP
-- Retreiving Artifacts - 0 - 10 XP per item
+- Impressing locals - 1 to 6 XP
+- Retreiving Artifacts - 0 to 10 XP per item
 - Mapping Dungons - 1 XP per floor
 - Clearing Hexes - 1 XP per hex
 - Identifying new enemies - 1 XP per enemy described
+
+---
 
 ### Active Deployments 
 - Randall (Morgan M)
@@ -34,7 +36,6 @@ permalink: /blackcloaks/
 - Juniper (Jade D)
 - Ahab (Alan E)
 
-
 ### Missing in Action
 - Bubbles (Cameron R) - Captured by the Alchemist
 - Ratbreath (Jayla Q) - Captured by the Alchemist
@@ -42,18 +43,37 @@ permalink: /blackcloaks/
 - Jebediah (Jacob A) - Captured by the Alchemist
 
 ### Retired
-​Cthul (Johathan R) 
-Alan (Will H)
+- ​Cthul (Johathan R)
+- Alan (Will H)
 
+### Deceased Recruits
+1. Shivin' Shaun (Shane F) - Fell from a tower in the moonlight
+2. Janix  (Shane F)- Consumed by flaming literature
+3. Nominal John (Alex Si) - Rest in spaghetti never forgetti.
+4. Gray Dickson (Alex Si) - Consumed by crystal skull flame
+5. Gruner Veltliner (Kristina M)- Blasted by steam
+6. Arthur (Jake V) - Pincushioned by guards 
+7. Cannibal Cad (Hannah) - Lept to his demise. 
+8. Cleatus (Larry S) - Swallowed by a Hydra
+9. Thalis Gavin) - Fell in the tomb of Hishep Ratep
+10. Dragon (Daniel M) - Fell in the tomb of Hishep Ratep
+11. Lance (Landon M) - Burned to death mid kiss
+12. Marceline (Angel S) - Killed by the Gloam
+13. Jaxson (Zuri M) - Fell in the Vacuous Pit
+14. Marshall (Gavin) - Killed in the tomb of Hishep Ratep 
+15. Roger Beaks (Victor S) - Drowned in the tomb of Hishep Ratep
+16. Ithquial (Johathan R) - Crushed in the fist of a troll
+17. Cloud (Zuri M) - Fell 100ft
+18. Drago (Daniel M) - Crushed to death by a troll's bear hug
+19. Rain (Landon M) - Murdered by bandits, burned while kissing.
+20. Flora (Meadow) - Kicked to death by a baby-headed troll
+21. Santi (Angel S) - Fell in the Vacuous Pit
+22. Creek (unknown) - Fell in the Vacuous Pit
+23. Burner (Jaziah B)- Killed by a glass bottle at Fort Ghoul
+24. Nameless (Jacob A) - Drowned on the Shore of Fort Ghoul
+25. Fiora (Owen D) - Harpooned by a guard while escpaing the Albatross
 
-### Notable Enemies and Monsters
-
-- **Alchemist of the Eastern Hills** - Underground lair beneath the hills to the east contains a moulderning lair build by an evil alchemist known to have experimented on sentient creatures. Several of our crew were captured within. 
-- **Trapdoor Spiders** - Inhabitants of the Vacuous Cave. Use silk lines as trip wires. Beware the top level and the twisting tunnels.
-- **Troll of the Western Road** - A beheaded troll which was adopted by Black Cloaks only to regenrate back into two monstrosities.
-- **Unidentified Tree Creature** - powerful enemy encountered west of Bywater just of the road, materialized from a tree.
-- **Arboreal Serpent Ghoul** - 
-
+---
 
 ### Dungeons 
 Alchemist's Repose: 90% - School Crew
@@ -96,35 +116,19 @@ Lair of Ovoid Eyes - 0%
 - Ashuzd - Very old hermit with a few secrets
 - Ingrid - Blind Healer in Bywater
 - Harold - Smith and Tatoo artist
-- Piper - Young girl conscripted into the black cloaks after her family was murdered by soldiers. 
+- Piper - Young girl conscripted into the black cloaks after her family was murdered by soldiers.
 
+---
 
-### Deceased Recruits
-1. Shivin' Shaun (Shane F) - Fell from a tower in the moonlight
-2. Janix  (Shane F)- Consumed by flaming literature
-3. Nominal John (Alex Si) - Rest in spaghetti never forgetti.
-4. Gray Dickson (Alex Si) - Consumed by crystal skull flame
-5. Gruner Veltliner (Kristina M)- Blasted by steam
-6. Arthur (Jake V) - Pincushioned by guards 
-7. Cannibal Cad (Hannah) - Lept to his demise. 
-8. Cleatus (Larry S) - Swallowed by a Hydra
-9. Thalis Gavin) - Fell in the tomb of Hishep Ratep
-10. Dragon (Daniel M) - Fell in the tomb of Hishep Ratep
-11. Lance (Landon M) - Burned to death mid kiss
-12. Marceline (Angel S) - Killed by the Gloam
-13. Jaxson (Zuri M) - Fell in the Vacuous Pit
-14. Marshall (Gavin) - Killed in the tomb of Hishep Ratep 
-15. Roger Beaks (Victor S) - Drowned in the tomb of Hishep Ratep
-16. Ithquial (Johathan R) - Crushed in the fist of a troll
-17. Cloud (Zuri M) - Fell 100ft
-18. Drago (Daniel M) - Crushed to death by a troll's bear hug
-19. Rain (Landon M) - Murdered by bandits, burned while kissing.
-20. Flora (Meadow) - Kicked to death by a baby-headed troll
-21. Santi (Angel S) - Fell in the Vacuous Pit
-22. Creek (unknown) - Fell in the Vacuous Pit
-23. Burner (Jaziah B)- Killed by a glass bottle at Fort Ghoul
-24. Nameless (Jacob A) - Drowned on the Shore of Fort Ghoul
-25. Fiora (Owen D) - Harpooned by a guard while escpaing the Albatross
+### Notable Enemies and Monsters
 
-### Other Resources
+- **Alchemist of the Eastern Hills** - Underground lair beneath the hills to the east contains a moulderning lair build by an evil alchemist known to have experimented on sentient creatures. Several of our crew were captured within. 
+- **Trapdoor Spiders** - Inhabitants of the Vacuous Cave. Use silk lines as trip wires. Beware the top level and the twisting tunnels.
+- **Troll of the Western Road** - A beheaded troll which was adopted by Black Cloaks only to regenrate back into two monstrosities.
+- **Unidentified Tree Creature** - powerful enemy encountered west of Bywater just of the road, materialized from a tree.
+- **Arboreal Serpent Ghoul** - 
+
+---
+
+## Other Resources
 [Music]({{ '/blackcloaksmusic/' | relative_url }})
