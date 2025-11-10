@@ -124,9 +124,6 @@ permalink: /blackcloaks/
 ---
 
 
-
----
-
 ## Other Resources
 [Lore]({{ '/blackcloaklore/' | relative_url }})
 [Music]({{ '/blackcloaksmusic/' | relative_url }}) \
