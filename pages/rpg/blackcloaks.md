@@ -7,18 +7,22 @@ permalink: /blackcloaks/
 # Black Cloaks
 ## Bywater Deployment Records
 #### Kept by Darj Farrier, Director III, Ventures Division
-
+/
+/
 ---
-
+/
+/
 ### Active Contracts 
 - Impressing locals - 1 to 6 XP
 - Retreiving Artifacts - 0 to 10 XP per item
 - Mapping Dungons - 1 XP per floor
 - Clearing Hexes - 1 XP per hex
 - Identifying new enemies - 1 XP per enemy described
-
+/
+/
 ---
-
+/
+/
 ### Active Deployments 
 - Randall (Morgan M)
 - ​Mook (Morgan M)
@@ -72,9 +76,11 @@ permalink: /blackcloaks/
 23. Burner (Jaziah B)- Killed by a glass bottle at Fort Ghoul
 24. Nameless (Jacob A) - Drowned on the Shore of Fort Ghoul
 25. Fiora (Owen D) - Harpooned by a guard while escpaing the Albatross
-
+/
+/
 ---
-
+/
+/
 ### Dungeons 
 **Alchemist's Repose** (90% School Crew): Lair of an evil alchemist filled with traps. Several Black Cloaks disappeared within and have never been seen again
 
@@ -96,9 +102,11 @@ permalink: /blackcloaks/
 **Tower of the Winged Beast** (0%)\
 **Temple of Forbidden Memories** (0%)\
 **Lair of Ovoid Eyes** (0%)\
-
+/
+/
 ---
-
+/
+/
 ### Black Cloak Contacts
 - Ichabod - Quartermaster for black cloaks transport ship
 - Darj - Me - Black Cloak coordinator in Bywater
@@ -110,9 +118,11 @@ permalink: /blackcloaks/
 - Ingrid - Blind Healer in Bywater
 - Harold - Smith and Tatoo artist
 - Piper - Young girl conscripted into the black cloaks after her family was murdered by soldiers.
-
+/
+/
 ---
-
+/
+/
 ### Notable Enemies and Monsters
 
 - **Alchemist of the Eastern Hills** - Underground lair beneath the hills to the east contains a moulderning lair build by an evil alchemist known to have experimented on sentient creatures. Several of our crew were captured within. 
