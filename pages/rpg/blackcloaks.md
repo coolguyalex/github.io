@@ -123,6 +123,8 @@ permalink: /blackcloaks/
 
 ---
 
+[### Lore]({{ '/blackcloaklore/' | relative_url }}) \
+
 ## Other Resources
 [Music]({{ '/blackcloaksmusic/' | relative_url }}) \
 [Shadowdark PDF]('https://drive.google.com/file/d/1wl3Vlp9aC4atjL6neQV3HjJIFHugLn_1/view?usp=sharing')
