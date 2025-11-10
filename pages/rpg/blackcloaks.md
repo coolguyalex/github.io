@@ -3,7 +3,7 @@ layout: default
 title: Black Cloaks
 permalink: /blackcloaks/
 ---
-
+# Black Cloaks
 ## Bywater Deployment Records
 #### Kept by Darj Farrier, Director III, Ventures Division
 
