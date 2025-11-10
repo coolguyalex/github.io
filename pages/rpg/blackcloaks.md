@@ -92,10 +92,10 @@ permalink: /blackcloaks/
 
 **Sanctum of Abominable Knowledge** (5% - School Crew): Diseased rats have invades a small village of Gateau but none remain to tel the tale of their coming.
 
-**Lair Beneath the Ruined Keep** (0%)
-**Tower of the Winged Beast** (0%)
-**Temple of Forbidden Memories** (0%)
-**Lair of Ovoid Eyes** (0%)
+**Lair Beneath the Ruined Keep** (0%)\
+**Tower of the Winged Beast** (0%)\
+**Temple of Forbidden Memories** (0%)\
+**Lair of Ovoid Eyes** (0%)\
 
 ---
 
