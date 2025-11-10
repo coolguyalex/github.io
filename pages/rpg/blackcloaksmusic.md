@@ -1,3 +1,9 @@
+---
+layout: default
+title: Black Cloaks
+permalink: /blackcloaksmusic/
+---
+
 # Black Cloaks Music
 - Fief
   - II
