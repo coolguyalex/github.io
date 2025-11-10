@@ -123,7 +123,7 @@ permalink: /blackcloaks/
 
 ---
 
-[### Lore]({{ '/blackcloaklore/' | relative_url }}) \
+[### Lore]({{ '/blackcloaklore/' | relative_url }})
 
 ## Other Resources
 [Music]({{ '/blackcloaksmusic/' | relative_url }}) \
