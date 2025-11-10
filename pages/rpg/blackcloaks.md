@@ -121,10 +121,10 @@ Lair of Ovoid Eyes - 0%
 19. Rain (Landon M) - Murdered by bandits, burned while kissing.
 20. Flora (Meadow) - Kicked to death by a baby-headed troll
 21. Santi (Angel S) - Fell in the Vacuous Pit
-​22. Creek (unknown) - Fell in the Vacuous Pit
+22. Creek (unknown) - Fell in the Vacuous Pit
 23. Burner (Jaziah B)- Killed by a glass bottle at Fort Ghoul
 24. Nameless (Jacob A) - Drowned on the Shore of Fort Ghoul
 25. Fiora (Owen D) - Harpooned by a guard while escpaing the Albatross
 
 ### Other Resources
-Music
+[Music]({{ '/blackcloaksmusic/' | relative_url }})
