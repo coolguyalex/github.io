@@ -121,7 +121,8 @@ permalink: /blackcloaks/
 ---
 
 
-## Other Resources
+## Other Links and Resources
+[House Rules]({{'blackcloaksrules/' | relative_url }})\
 [Lore]({{ '/blackcloakslore/' | relative_url }}) \
 [Music]({{ '/blackcloaksmusic/' | relative_url }}) \
 <a href="https://drive.google.com/file/d/1wl3Vlp9aC4atjL6neQV3HjJIFHugLn_1/view?usp=sharing" target="_blank" rel="noopener noreferrer">
