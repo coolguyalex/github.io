@@ -8,8 +8,8 @@ permalink: /blackcloaks/
 ## Bywater Deployment Records
 #### Kept by Darj Farrier, Director III, Ventures Division
 
-[Jump to The Black Cloaks](# The Black Cloaks)
-[Jump to The Black Cloaks](# Active Deployments)
+[Jump to The Black Cloaks](# The Black Cloaks) \
+[Jump to The Black Cloaks](# Active Deployments) \
 [Jump to The Black Cloaks](# Dungeons)
 
 ...
