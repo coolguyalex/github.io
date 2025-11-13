@@ -12,9 +12,6 @@ permalink: /blackcloaks/
 [Jump to The Active Deployments](### Active Deployments) \
 [Jump to The Dungeons](### Dungeons)
 
-
-### The Black Cloaks
-
 ---
 
 ### Active Contracts
