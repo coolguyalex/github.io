@@ -8,15 +8,15 @@ permalink: /blackcloaks/
 ## Bywater Deployment Records
 #### Kept by Darj Farrier, Director III, Ventures Division
 
-[Jump to The Active Deployments](###Active-Deployments) \
-[Jump to Deployments](###Deployments) \
-[Jump to The Dungeons](###Dungeons) \
-[Jump to The Contracts](###Contracts) \
-[Jump to The Notable Monsters](###Notable-Enemies-and-Monsters) 
-
+[Jump to The Guild Initiatives](#Guild-Initiatives) \
+[Jump to The Deployments](#Deployments) \
+[Jump to The Dungeons](#Dungeons) \
+[Jump to Contacts](#Contacts) \
+[Jump to Hostiles](#Hostiles) \
+[Jump to Resources](#Resources) \ 
 
 ---
-
+## Guild Initiatives
 ### Active Contracts
 - Assist the Ecologist: An ecologist is concerned that a bird's habitat will be destroyed. Help him relocate a breeding pair.
 - Investigate the missing Goats: A local goatherd claims some sort of horrible creature from the fog has been taking his goats.
@@ -31,7 +31,7 @@ permalink: /blackcloaks/
 #### 
 ---
 
-### Deployments 
+## Deployments 
 #### Active
 - Randall (Morgan M)
 - ​Mook (Morgan M)
@@ -49,17 +49,17 @@ permalink: /blackcloaks/
 - Juniper (Jade D)
 - Ahab (Alan E)
 
-#### Missing in Action
+### Missing in Action
 - Bubbles (Cameron R) - Captured by the Alchemist
 - Ratbreath (Jayla Q) - Captured by the Alchemist
 - Senku (Daniel M) - Captured by the Alchemist
 - Jebediah (Jacob A) - Captured by the Alchemist
 
-#### Retired
+### Retired
 - ​Cthul (Johathan R)
 - Alan (Will H)
 
-#### Deceased Recruits
+### Deceased
 1. Shivin' Shaun (Shane F) - Fell from a tower in the moonlight
 2. Janix  (Shane F)- Consumed by flaming literature
 3. Nominal John (Alex Si) - Rest in spaghetti never forgetti.
@@ -88,7 +88,7 @@ permalink: /blackcloaks/
 
 ---
 
-### Dungeons 
+## Dungeons 
 - **Alchemist's Repose** (90% School Crew): Lair of an evil alchemist filled with traps. Several Black Cloaks disappeared within and have never been seen again
 - **Tomb of Hishep Ratep** (90% School Crew): Flooded tomb on the edge of a lake. Guardians endure.
 - **The Aquifer of Crystalline Memory** (75% Home Crew): Children enslaved to pick mushrooms within
@@ -104,7 +104,7 @@ permalink: /blackcloaks/
   
 ---
 
-### Black Cloak Contacts
+## Contacts
 - Ichabod - Quartermaster for black cloaks transport ship
 - Darj - Me - Black Cloak coordinator in Bywater
 - Eugene - Representative of the Tadrosi Customs and Trade commission. 
@@ -118,8 +118,7 @@ permalink: /blackcloaks/
 
 ---
 
-### Notable Enemies and Monsters
-
+## Hostiles
 - **Alchemist of the Eastern Hills** - Underground lair beneath the hills to the east contains a moulderning lair build by an evil alchemist known to have experimented on sentient creatures. Several of our crew were captured within. 
 - **Trapdoor Spiders** - Inhabitants of the Vacuous Cave. Use silk lines as trip wires. Beware the top level and the twisting tunnels.
 - **Troll of the Western Road** - A beheaded troll which was adopted by Black Cloaks only to regenrate back into two monstrosities.
@@ -128,11 +127,12 @@ permalink: /blackcloaks/
 
 ---
 
-
-## Other Links and Resources
+## Resources
 [House Rules]({{'blackcloaksrules/' | relative_url }})\
 [Lore]({{ '/blackcloakslore/' | relative_url }}) \
 [Music]({{ '/blackcloaksmusic/' | relative_url }}) \
 <a href="https://drive.google.com/file/d/1wl3Vlp9aC4atjL6neQV3HjJIFHugLn_1/view?usp=sharing" target="_blank" rel="noopener noreferrer">
   Shadowdark PDF
 </a>
+
+[Back to Top](##Black-Cloaks) 
