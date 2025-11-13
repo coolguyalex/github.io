@@ -4,19 +4,19 @@ title: Black Cloaks
 permalink: /blackcloaks/
 ---
 
-[Jump to The Guild Initiatives](#Guild-Initiatives) \
-[Jump to The Deployments](#Deployments) \
-[Jump to The Dungeons](#Dungeons) \
-[Jump to Contacts](#Contacts) \
-[Jump to Hostiles](#Hostiles) \
-[Jump to Resources](#Resources) 
+[Jump to The Guild Initiatives](#guild-initiatives) <br>
+[Jump to The Deployments](#deployments) <br>
+[Jump to The Dungeons](#dungeons) <br>
+[Jump to Contacts](#contacts) <br>
+[Jump to Hostiles](#hostiles) <br>
+[Jump to Resources](#resources) 
 
----
+<br>---<br>
 
 # Black Cloaks
 ## Bywater Deployment Records
 #### Kept by Darj Farrier, Director III, Ventures Division
----
+<br>---<br>
 ## Guild Initiatives
 ### Active Contracts
 - Assist the Ecologist: An ecologist is concerned that a bird's habitat will be destroyed. Help him relocate a breeding pair.
@@ -30,7 +30,7 @@ permalink: /blackcloaks/
 - Clearing Hexes - 1 XP per hex
 - Identifying new enemies - 1 XP per enemy described
 #### 
----
+<br>---<br>
 
 ## Deployments 
 #### Active
@@ -87,7 +87,7 @@ permalink: /blackcloaks/
 24. Nameless (Jacob A) - Drowned on the Shore of Fort Ghoul
 25. Fiora (Owen D) - Harpooned by a guard while escpaing the Albatross
 
----
+<br>---<br>
 
 ## Dungeons 
 - **Alchemist's Repose** (90% School Crew): Lair of an evil alchemist filled with traps. Several Black Cloaks disappeared within and have never been seen again
@@ -98,12 +98,14 @@ permalink: /blackcloaks/
 - **Skyblind Spire** (15% School Crew): Colors and space are warped within
 - **Fort Ghoul** (50% - School Crew): Privateer's cache lies beneath but beware those to whom it belongs.
 - **Sanctum of Abominable Knowledge** (5% - School Crew): Diseased rats have invades a small village of Gateau but none remain to tel the tale of their coming.
-- **Lair Beneath the Ruined Keep** (0%)
-- **Tower of the Winged Beast** (0%)
-- **Temple of Forbidden Memories** (0%)\
-- **Lair of Ovoid Eyes** (0%)\
-  
+- **Lair Beneath the Ruined Keep** (0%)<br>
+- **Tower of the Winged Beast** (0%)<br>
+- **Temple of Forbidden Memories** (0%)<br>
+- **Lair of Ovoid Eyes** (0%)
+
+<br>
 ---
+<br>
 
 ## Contacts
 - Ichabod - Quartermaster for black cloaks transport ship
@@ -117,7 +119,7 @@ permalink: /blackcloaks/
 - Harold - Smith and Tatoo artist
 - Piper - Young girl conscripted into the black cloaks after her family was murdered by soldiers.
 
----
+<br>---<br>
 
 ## Hostiles
 - **Alchemist of the Eastern Hills** - Underground lair beneath the hills to the east contains a moulderning lair build by an evil alchemist known to have experimented on sentient creatures. Several of our crew were captured within. 
@@ -126,16 +128,16 @@ permalink: /blackcloaks/
 - **Unidentified Tree Creature** - powerful enemy encountered west of Bywater just of the road, materialized from a tree.
 - **Arboreal Serpent Ghoul** 
 
----
+<br> --- <br>
 
 ## Resources
-[House Rules]({{'blackcloaksrules/' | relative_url }})\
-[Lore]({{ '/blackcloakslore/' | relative_url }}) \
-[Music]({{ '/blackcloaksmusic/' | relative_url }}) \
+[House Rules]({{'blackcloaksrules/' | relative_url }})<br>
+[Lore]({{ '/blackcloakslore/' | relative_url }}) <br>
+[Music]({{ '/blackcloaksmusic/' | relative_url }}) <br>
 <a href="https://drive.google.com/file/d/1wl3Vlp9aC4atjL6neQV3HjJIFHugLn_1/view?usp=sharing" target="_blank" rel="noopener noreferrer">
   Shadowdark PDF
 </a>
 
----
+<br>---<br>
 
-[Back to Top](##Black-Cloaks) 
+[Back to Top](##black-cloaks) 
