@@ -29,7 +29,7 @@ permalink: /blackcloaks/
 - Mapping Dungons - 1 XP per floor
 - Clearing Hexes - 1 XP per hex
 - Identifying new enemies - 1 XP per enemy described
-#### 
+
 <br>---<br>
 
 ## Deployments 
