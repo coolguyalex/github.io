@@ -13,7 +13,7 @@ permalink: /blackcloaks/
 [Jump to The Dungeons](#Dungeons) \
 [Jump to Contacts](#Contacts) \
 [Jump to Hostiles](#Hostiles) \
-[Jump to Resources](#Resources) \ 
+[Jump to Resources](#Resources) 
 
 ---
 ## Guild Initiatives
