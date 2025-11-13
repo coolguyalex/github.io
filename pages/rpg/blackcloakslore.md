@@ -3,10 +3,13 @@ layout: default
 title: Black Cloaks
 permalink: /blackcloakslore/
 ---
+## Jump to: [Timeline](#timeline) &nbsp;&nbsp;&nbsp; [Countries](#countries-of-kudahn) &nbsp;&nbsp;&nbsp; [Religions](#religions-of-kudahn) &nbsp;&nbsp;&nbsp; [Languages](#languages) &nbsp;&nbsp;&nbsp; [Magic](#kudahros-and-the-kudahr-field)
+--- 
+<br>
 
 # Black Cloaks History 
+---
 
-Jump to: [Timeline](#timeline) &nbsp;&nbsp;&nbsp; [Countries](#countries-of-kudahn) &nbsp;&nbsp;&nbsp; [Religions](#religions-of-kudahn) &nbsp;&nbsp;&nbsp; [Languages](#languages) &nbsp;&nbsp;&nbsp; [Magic](#kudahros-and-the-kudahr-field)
 
 The Black Cloaks began as a guild of scholars, cartographers, archaeologists, and dungeoneers that  sought out the ruins of ancient civilizations, sunken treasure galleons, and the burial hordes of ancient kings for knowledge, profit, and fame. 
 In time, the black cloaks became respected and feared in equal measure and at their height, the black cloaks were the consult and trade partners of kings, archmages, and warlords alike. 
