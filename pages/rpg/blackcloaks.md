@@ -12,7 +12,7 @@ permalink: /blackcloaks/
 [Jump to Deployments](###Deployments) \
 [Jump to The Dungeons](###Dungeons) \
 [Jump to The Contracts](###Contracts) \
-[Jump to The Notable Monsters](###Notable-Enemies-and-Monsters) \
+[Jump to The Notable Monsters](###Notable-Enemies-and-Monsters) 
 
 
 ---
@@ -20,7 +20,7 @@ permalink: /blackcloaks/
 ### Active Contracts
 - Assist the Ecologist: An ecologist is concerned that a bird's habitat will be destroyed. Help him relocate a breeding pair.
 - Investigate the missing Goats: A local goatherd claims some sort of horrible creature from the fog has been taking his goats.
-- Locate the missing Black Cloaks - A group of Black Cloaks went missing long ago while investigating rumors of a purpoted "Alchemist's Lair". 
+- Locate the missing Black Cloaks - A group of Black Cloaks went missing long ago while investigating rumors of a purported "Alchemist's Lair". 
  
 ### Standing Rewards
 - Impressing locals - 1 to 6 XP
