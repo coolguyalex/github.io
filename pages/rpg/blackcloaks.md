@@ -11,12 +11,16 @@ permalink: /blackcloaks/
 * [Hostiles](#hostiles) <br>
 * [Resources](#resources) 
 
-<br>---<br>
+<br>
+---
+<br>
 
 # Black Cloaks
 ## Bywater Deployment Records
 #### Kept by Darj Farrier, Director III, Ventures Division
-<br>---<br>
+<br>
+---
+<br>
 ## Guild Initiatives
 ### Active Contracts
 - Assist the Ecologist: An ecologist is concerned that a bird's habitat will be destroyed. Help him relocate a breeding pair.
@@ -30,7 +34,9 @@ permalink: /blackcloaks/
 - Clearing Hexes - 1 XP per hex
 - Identifying new enemies - 1 XP per enemy described
 
-<br>---<br>
+<br>
+---
+<br>
 
 ## Deployments 
 #### Active
@@ -87,7 +93,9 @@ permalink: /blackcloaks/
 24. Nameless (Jacob A) - Drowned on the Shore of Fort Ghoul
 25. Fiora (Owen D) - Harpooned by a guard while escpaing the Albatross
 
-<br>---<br>
+<br>
+---
+<br>
 
 ## Dungeons 
 - **Alchemist's Repose** (90% School Crew): Lair of an evil alchemist filled with traps. Several Black Cloaks disappeared within and have never been seen again
@@ -119,7 +127,9 @@ permalink: /blackcloaks/
 - Harold - Smith and Tatoo artist
 - Piper - Young girl conscripted into the black cloaks after her family was murdered by soldiers.
 
-<br>---<br>
+<br>
+---
+<br>
 
 ## Hostiles
 - **Alchemist of the Eastern Hills** - Underground lair beneath the hills to the east contains a moulderning lair build by an evil alchemist known to have experimented on sentient creatures. Several of our crew were captured within. 
@@ -128,7 +138,9 @@ permalink: /blackcloaks/
 - **Unidentified Tree Creature** - powerful enemy encountered west of Bywater just of the road, materialized from a tree.
 - **Arboreal Serpent Ghoul** 
 
-<br> --- <br>
+<br> 
+--- 
+<br>
 
 ## Resources
 [House Rules]({{'blackcloaksrules/' | relative_url }})<br>
@@ -138,7 +150,9 @@ permalink: /blackcloaks/
   Shadowdark PDF
 </a>
 
-<br>---<br>
+<br>
+---
+<br>
 
 [Back to Top](#black-cloaks) 
 
