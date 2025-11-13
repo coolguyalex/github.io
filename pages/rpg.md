@@ -19,8 +19,15 @@ RPG information and records for active and archived games.
   </a>
 </p>
 
-
 <br>
+
+<p style="text-align:center;">
+  <a href="{{ '/impasse/' | relative_url }}">
+    <img src="{{ '/assets/images/impasseico.png' | relative_url }}"
+         alt="Impasse Poster"
+         width="200">
+  </a>
+</p>
 
 <p style ="text-align:center;">
   [<img src="{{ '/assets/images/impasseico.png' | relative_url }}" alt="Impasse poster" width="200">]({{ '/impasse/' | relative_url }})
