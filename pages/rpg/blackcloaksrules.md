@@ -26,4 +26,9 @@ Example DC's for Sanity damage:
 * DC 9 - particularly gruesome death
 * DC 12 - forcing yourself to do something mentally difficult
 * DC 15 - moving through the dark 
-* DC 18 - 
+* DC 18 - moving deeper into the dark
+
+## Sundering and Weapon Quality
+Weapons and armor may chip and break with use.
+On PC attack rolls a _confirmed_ critical miss degrades weapon quality by 1 increment. A confirmed critical hit on a PC degrades armor quality by 1 increment. Weapons and armor can be of *Crude*, *Good*, *Excellent*, and *Masterwork* quality. Masterwork items require a double crit to degrade. 
+When quality drops below crude the item is deatroyed. 
