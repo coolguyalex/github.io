@@ -3,7 +3,8 @@ layout: default
 title: Black Cloaks
 permalink: /blackcloakslore/
 ---
-## Jump to: [Timeline](#timeline) &nbsp;&nbsp;&nbsp; [Countries](#countries-of-kudahn) &nbsp;&nbsp;&nbsp; [Religions](#religions-of-kudahn) &nbsp;&nbsp;&nbsp; [Languages](#languages) &nbsp;&nbsp;&nbsp; [Magic](#kudahros-and-the-kudahr-field)
+## Jump to: 
+[Timeline](#timeline) &nbsp;&nbsp;&nbsp; [Countries](#countries-of-kudahn) &nbsp;&nbsp;&nbsp; [Religions](#religions-of-kudahn) &nbsp;&nbsp;&nbsp; [Languages](#languages-of-kudahn) &nbsp;&nbsp;&nbsp; [Magic](#kudahros-and-the-kudahr-field)
 --- 
 <br>
 
@@ -124,10 +125,14 @@ An independent City state surrounded by Umbar territory on the southern tip of K
 ### Primordial Worship
 Between the cities and deserts among the sagebrush and scrublands of the east live the practitioners of the oldest religion in Tadros and potentially the continent. Practitioners believe that the energy of the primordials is thought to suffuse all of nature. Primordialists see the entirely of creation as being literally comprised of the four essences. To primordialists the dualism of Ngan-Shair and magic-focus of Kūdism seem overly simplistic.
 ​Whether Primordial worship was brought to Kudahn from across the Iboro Sea or evolved from the goblinoid animism (and thus is more ancient) is an on-going topic of research but similarities abound. However, the ancestor worship and emphasis on spirits and ever conscious entities is rejected in place of a more physical understanding of the universe. The primoridials are:
-#### Ur - Domain of solids, earth,  mountains, strength, tradition, death, family, winter. Simply symbolized by a circle symbolizing stone or more complexly represented by concentric circles. 
-#### ​​Eloa- Domain of the ocean, change, tranquility, rebirth, inspiration, growth, spring . Symbolized by a wave and more complexly by vast interlocking patterns.
-#### Aea - Doman of the sky; gasses, freedom, weather, fall,  art, creativity, Simply Symbolized by a gust of wind and more complexly represented by swirling chaotic patterns that never repeat
-Shaír - God of passion, fire, poetry, sex, love, anger, light, the sun: Simple symbol is a triangle more complex symbols: red disc surrounded by orange flames
+#### Ur
+Domain of solids, earth,  mountains, strength, tradition, death, family, winter. Simply symbolized by a circle symbolizing stone or more complexly represented by concentric circles. 
+#### ​​Eloa
+Domain of the ocean, change, tranquility, rebirth, inspiration, growth, spring . Symbolized by a wave and more complexly by vast interlocking patterns.
+#### Aea
+Doman of the sky; gasses, freedom, weather, fall,  art, creativity, Simply Symbolized by a gust of wind and more complexly represented by swirling chaotic patterns that never repeat
+#### Shaír
+God of passion, fire, poetry, sex, love, anger, light, the sun: Simple symbol is a triangle more complex symbols: red disc surrounded by orange flames
 
 ### Illūs
 Illusi are common in the north, northeast and east of Doran where elves and humans historically intermingled. Practiced by widely among the elves and the ancestral Dorani.
@@ -139,25 +144,40 @@ In the tradition of the divine family the universe, celestial bodies, and life f
 This is a simplified representation of the most common modes of worship of the divine family however, the expansion of humanity throughout the central Khudan shield has left many ethnic groups to adapt and alter the faith and numerous splinter traditions have arisen. Some have developed traditions focused on the worship of particular family members and relegating other family members to the status of demons. Others have elevated particular demons to deity status or developed entire faiths focused on a single entity.  
 A variation of the divine family popular in the northeast integrates the four deities into primordial worship by viewing the four family members as anthropomorphic avatars of the four primordials. This is likely from cultural integration with Orcs and to a lesser extent elves, among the mountains. Scholars point to the numerous similarities between the divine family and the primordial four as evidence for a common ancestor. These scholars also name this religion among the oldest in Andor. 
 
-#### Yara: female aspect of nature, fertility, wisdom, the moon, the home, the harvest, childbirth, the hearth, summer, cooking, and the moon (healing, tranquil) Lust, spite, jealousy, indifference, apathy, sadness , blindness 
-####  Sernos: male aspect of nature, strength, passion, duty, warriors, summer, Work, crafting, protection. winter And the sun  (resolute, consistent, powerful) Power seeking, hatred, stubbornness, gluttony, deafness 
-#### Helya- Female child god of bravery, hunting, determination, sacrifice, perseverance, fall and the stars (shooting stars are said to be her arrows) Revenge, malice, single mindedness, ignorance, close mindedness, dumbness. 
-#### Dorán- male child god of art and music, beauty, inspiration, adaptability, spring and the planets. (Planets wander the sky looking for new experiences and inspiration) Vanity, pride, superficiality, flippancy, distraction, mindlessness, insanity, Anosmia.
+#### Yara
+female aspect of nature, fertility, wisdom, the moon, the home, the harvest, childbirth, the hearth, summer, cooking, and the moon (healing, tranquil) Lust, spite, jealousy, indifference, apathy, sadness , blindness 
+####  Sernos
+male aspect of nature, strength, passion, duty, warriors, summer, Work, crafting, protection. winter And the sun  (resolute, consistent, powerful) Power seeking, hatred, stubbornness, gluttony, deafness 
+#### Helya
+Female child god of bravery, hunting, determination, sacrifice, perseverance, fall and the stars (shooting stars are said to be her arrows) Revenge, malice, single mindedness, ignorance, close mindedness, dumbness. 
+#### Dorán
+male child god of art and music, beauty, inspiration, adaptability, spring and the planets. (Planets wander the sky looking for new experiences and inspiration) Vanity, pride, superficiality, flippancy, distraction, mindlessness, insanity, Anosmia.
 
 #### Demons:
-##### Hanumo -silly, frivolous monkey frequently paired with Doran. Typically represents the impulsive or base. 
-##### Geru - a raging boar frequently paired with Sernos. Represents animal might and power 
-##### Farthuk- a sentient mountain representing the sheer scale of nature and it’s utter disregard for human problems. 
-##### Sarth - a thieving raccoon paired with Helya represents the capriciousness of nature and the need to be vigilant. 
-##### Jadarka- a secretive fox and companion to Yara. 
-##### Malchek- an undead wolf and guardian of the dead.  
-##### Magnangam- a massive snake with a head at each end that eats and regurgitates time forever. 
-##### Ashari- a giant bird that brings the weather. 
-##### Ulanti - an enormous beautiful fish who constantly lays eggs and seeds the words ocean with their life. Represents the bounty of nature. 
+##### Hanumo
+silly, frivolous monkey frequently paired with Doran. Typically represents the impulsive or base. 
+##### Geru
+a raging boar frequently paired with Sernos. Represents animal might and power 
+##### Farthuk
+a sentient mountain representing the sheer scale of nature and it’s utter disregard for human problems. 
+##### Sarth
+a thieving raccoon paired with Helya represents the capriciousness of nature and the need to be vigilant. 
+##### Jadarka
+a secretive fox and companion to Yara. 
+##### Malchek
+an undead wolf and guardian of the dead.  
+##### Magnangam
+a massive snake with a head at each end that eats and regurgitates time forever. 
+##### Ashari
+a giant bird that brings the weather. 
+##### Ulanti
+an enormous beautiful fish who constantly lays eggs and seeds the words ocean with their life. Represents the bounty of nature. 
 
 #### Other family members:
-##### Aljun -grandfather - wisdom winter, methodicalness, legacy, leadership
-##### Bakuna- grandmother- sacrifice, struggle, perseverance, humility, kindness, love, dignity, wisdom
+##### Aljun
+grandfather - wisdom winter, methodicalness, legacy, leadership
+##### Bakuna
+grandmother- sacrifice, struggle, perseverance, humility, kindness, love, dignity, wisdom
 
 ### Kūdism
 ​is a monotheistic religion focused on magic (Kūdahros). Khidists believe that magic is likely a sentient force and the creator of the cosmos. Unlike many other religions, anthropomorphizing Kūdahros is almost never done and considered absurd if not disrespectful.
