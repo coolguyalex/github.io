@@ -5,6 +5,7 @@ permalink: /blackcloakslore/
 ---
 ## Jump to:
 [Timeline](#timeline) &nbsp;&nbsp;&nbsp; [Countries](#countries-of-kudahn) &nbsp;&nbsp;&nbsp; [Religions](#religions-of-kudahn) &nbsp;&nbsp;&nbsp; [Languages](#languages-of-kudahn) &nbsp;&nbsp;&nbsp; [Magic](#kudahros-and-the-kudahr-field)
+
 --- 
 <br>
 
